@@ -15,5 +15,8 @@
 /log/*.log
 /tmp
 
-# Ignore RubyMine files.
+# RubyMine files.
 .idea
+
+# Precompiled assets.
+public/assets/
