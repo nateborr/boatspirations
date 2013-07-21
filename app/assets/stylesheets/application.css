@@ -11,3 +11,8 @@
  *= require_self
  *= require_tree .
  */
+h1{font-family:Georgia, serif;
+  font-size:1.875em;
+  margin-top:0;
+  margin-bottom:0;
+  margin-left:0;}
