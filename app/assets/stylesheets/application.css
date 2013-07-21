@@ -15,4 +15,13 @@ h1{font-family:Georgia, serif;
   font-size:1.875em;
   margin-top:0;
   margin-bottom:0;
-  margin-left:0;}
+  margin-left:0;
+  }
+
+#quote{
+  text-align: "center";
+  margin-top:5em;
+  margin-bottom:0;
+  margin-left:0;
+  margin-right:0;
+}
